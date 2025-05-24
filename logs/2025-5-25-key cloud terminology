@@ -1,0 +1,18 @@
+📚 **Topics Covered:**
+- 👨‍💻 **Roles**:
+  - **Solutions Architect**: Designs specific cloud solutions aligned with business needs.
+  - **Cloud Architect**: Focuses on overall cloud infrastructure design and strategy.
+- 📊 **High Availability (HA)**: Ensuring systems are continuously operational with minimal downtime.
+- 📈 **High Scalability**: Ability to handle increasing workloads smoothly.
+- ⚡ **High Elasticity**: Automatic adjustment of resources based on demand.
+- 🛡️ **High Fault Tolerance**: Systems continue functioning correctly despite component failures.
+- 💾 **High Durability**: Data is preserved and protected against loss over long periods.
+- 📋 **Business Continuity Plan (BCP)**: Strategies to maintain business operations during disruptions.
+- 🚨 **Disaster Recovery (DR)**: Procedures to restore systems and data after catastrophic failures.
+- ⏱️ **Recovery Time Objective (RTO)**: Maximum acceptable time to restore service after an outage.
+
+🧠 **Key Takeaways:**
+- Cloud architects design systems prioritizing availability, scalability, and resilience.
+- HA and fault tolerance reduce downtime risks, critical for mission-critical apps.
+- Elasticity ensures cost-effective resource usage by matching supply with demand dynamically.
+- Effective BCP and DR planning is essential for minimizing impact from failures or disasters.
