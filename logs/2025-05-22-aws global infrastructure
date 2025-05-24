@@ -1,0 +1,24 @@
+📚 **Topics Covered:**
+- 🌍 **AWS Global Infrastructure**: Foundation for global cloud services and reliability
+- 🗺️ **Regions & Availability Zones (AZs)**:
+  - Regions are separate geographic areas with multiple AZs
+  - AZs are isolated locations within regions for fault tolerance
+  - Local Services availability differs by region
+- 🛡️ **Fault Tolerance & High Availability**: Using AZs and Regions to minimize downtime and data loss
+- 🌐 **AWS Global Network**: Backbone connecting data centers worldwide for high-speed, secure communication
+- 🏢 **AWS Outposts**: Bringing AWS services and infrastructure on-premises for hybrid cloud
+- 📍 **Points of Presence (PoPs)**: Edge locations for CloudFront CDN to deliver content fast
+- 🔌 **AWS Direct Connect**: Dedicated network connections from on-premises to AWS
+- 🏙️ **AWS Local Zones**: Extend AWS infrastructure to metropolitan areas for low latency
+- 📶 **AWS Wavelength**: Deploy AWS services at the edge of 5G networks for ultra-low latency apps
+- 🏛️ **Data Residency & Compliance**:
+  - AWS for Government & GovCloud for sensitive workloads
+  - Specialized regions for China & restricted data access
+- 🌱 **AWS Sustainability**: Commitments to renewable energy and carbon reduction
+- 🛰️ **AWS Ground Stations**: Satellite data management in AWS cloud
+
+🧠 **Key Takeaways:**
+- AWS’s massive, globally distributed infrastructure enables fault-tolerant, low-latency, secure applications worldwide
+- Hybrid and edge solutions (Outposts, Local Zones, Wavelength) expand AWS’s reach beyond data centers
+- Strong focus on data residency and compliance meets diverse customer needs globally
+- Sustainability efforts are key for AWS’s future and enterprise trust
