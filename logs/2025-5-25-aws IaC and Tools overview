@@ -1,0 +1,19 @@
+📚 **Topics Covered:**
+- 🖥️ **AWS Management Console**: Web-based user interface for managing AWS services
+- ⚙️ **AWS Service Console**: Dedicated dashboards for specific services within the AWS Console
+- 🆔 **AWS Account ID & ARN (Amazon Resource Name)**:
+  - Account ID identifies your AWS account uniquely
+  - ARN is a unique identifier for AWS resources across all accounts
+- 💻 **AWS CLI (Command Line Interface)**: Command line tool for managing AWS services and resources
+- 🔧 **AWS SDKs (Software Development Kits)**: Libraries in multiple programming languages to interact programmatically with AWS services (e.g., Boto3 for Python)
+- 🌐 **AWS CloudShell**: Browser-based shell environment preconfigured with AWS tools, no local setup required
+- 🏗️ **Infrastructure as Code (IaC)**:
+  - Defining and managing infrastructure using code rather than manual processes
+  - Enables version control, repeatability, and automation
+- 📜 **AWS CloudFormation**: AWS’s native IaC service using JSON/YAML templates to provision and manage resources
+- 🛠️ **AWS CDK (Cloud Development Kit)**: Higher-level IaC framework allowing you to define cloud infrastructure using familiar programming languages (Python, TypeScript, etc.)
+
+🧠 **Key Takeaways:**
+- Mastery of AWS CLI and SDKs is essential for automation and efficient cloud management
+- IaC is the foundation for scalable, reliable, and auditable cloud infrastructure deployment
+- Tools like CDK modernize IaC by making infrastructure definitions more expressive and developer-friendly
