@@ -7,7 +7,7 @@
 - 🌐 Landscape of CSPs: Azure, Google Cloud, Oracle, etc.
 - 🧭 Magic Quadrant for Cloud Providers (AWS leadership position)
 - ⚙️ Overview of Common Cloud Services:
-  - Compute
+  - Compute 
   - Storage
   - Databases
   - Networking
