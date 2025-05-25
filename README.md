@@ -1,4 +1,4 @@
-# 🛠️ AWS Init Log
+# ☁️ AWS Init Log
 
 This repo documents the earliest stages of my AWS Cloud learning journey — starting at 14, with the goal of building a valid, professional cloud engineering portfolio by 18.
 
