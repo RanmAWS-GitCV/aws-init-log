@@ -1,0 +1,11 @@
+## ✅ Module Completed
+**Compute**
+
+## 🧠 Key Topics Learned
+- Amazon EC2 (Elastic Compute Cloud): Launching virtual machines with control over OS
+- AWS Lambda: Serverless function execution triggered by events
+- Amazon ECS and Fargate: Container orchestration services
+- Understanding deployment models: VMs, containers, serverless
+- Auto-scaling, high availability, and cost management in compute services
+- Use cases for each compute service
+- Hands-on with the conceptual purpose of compute services in the cloud
