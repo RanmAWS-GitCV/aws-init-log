@@ -1,0 +1,46 @@
+# 🗂️ AWS CCP Progress Log  
+**Module:** Storage  
+**Date:** 2025-06-07
+
+## ✅ Summary of Completion
+Completed the **Storage** module in the AWS Certified Cloud Practitioner (CLF-C02) course. This section introduced the foundational AWS storage services and concepts, showing how and when to use each one depending on the use case, performance, and pricing model.
+
+---
+
+## 📘 Key Concepts Learned
+
+### 🪣 Amazon S3 (Simple Storage Service)
+- Object storage service used to store and retrieve any amount of data.
+- Buckets are global and must have unique names.
+- Great for backups, media, and static websites.
+- Classes like S3 Standard, S3 IA (Infrequent Access), and Glacier for archival.
+- Features: Versioning, Lifecycle Rules, Encryption, Public/Private Access.
+
+### 💽 Amazon EBS (Elastic Block Store)
+- Block-level storage attached to EC2 instances.
+- Persistent across instance stops/restarts.
+- Ideal for databases or OS-level storage.
+- SSD and HDD options depending on performance needs.
+
+### 🧠 Amazon EFS (Elastic File System)
+- Scalable NFS file system for Linux-based workloads.
+- Shared storage across multiple EC2 instances.
+- Auto-scales with usage, pay-as-you-use.
+
+### 📦 AWS Storage Gateway
+- Hybrid cloud storage between on-premises and cloud.
+- File Gateway, Volume Gateway, and Tape Gateway options.
+- Good for backup/migration solutions.
+
+---
+
+## 🧠 Takeaways
+- **S3 is king** for object-based storage—great for storing files, backups, and more, with insane scalability.
+- **EBS is your disk** when using EC2—used just like a hard drive.
+- **EFS is your network drive**—shareable and scalable across instances.
+- **Storage Gateway** is a powerful bridge for hybrid cloud solutions.
+
+---
+
+## ⏭️ What's Next?
+The next module will focus on **Databases** — time to learn about AWS services like RDS, DynamoDB, Redshift, and more!

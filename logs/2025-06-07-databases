@@ -1,0 +1,49 @@
+# 🧮 AWS CCP Progress Log  
+**Module:** Databases  
+**Date:** 2025-06-07
+
+## ✅ Summary of Completion
+Completed the **Databases** module in the AWS Certified Cloud Practitioner (CLF-C02) course. This section introduced the core AWS database services, when to use them, and how they fit into different application architectures and workloads.
+
+---
+
+## 📘 Key Concepts Learned
+
+### 🗄️ Amazon RDS (Relational Database Service)
+- Managed relational database service (supports MySQL, PostgreSQL, MariaDB, Oracle, SQL Server, and Aurora).
+- Handles maintenance tasks like backups, patching, scaling, and replication.
+- Best for structured data and transactional apps.
+
+### ⚡ Amazon DynamoDB
+- NoSQL database service with single-digit millisecond performance at any scale.
+- Key-value and document data models.
+- Serverless and fully managed — handles massive workloads.
+- Great for gaming, IoT, mobile apps, etc.
+
+### 🧠 Amazon Aurora
+- High-performance, MySQL/PostgreSQL-compatible database.
+- Up to 5x faster than standard MySQL.
+- Auto-healing and replication built-in.
+
+### 🧪 Amazon Redshift
+- Data warehousing service for complex analytical queries on petabyte-scale data.
+- Used for big data, business intelligence, reporting.
+- Integrates well with visualization tools.
+
+### 🔁 Amazon ElastiCache
+- In-memory data store (supports Redis and Memcached).
+- Used for caching to boost performance of apps and databases.
+
+### 🔄 Amazon Neptune
+- Graph database service optimized for relationship-rich datasets.
+- Used for social networks, recommendation engines, fraud detection, etc.
+
+---
+
+## 🧠 Takeaways
+- AWS has **a database for every use case** — transactional, NoSQL, analytics, graph, caching.
+- Managed services like RDS and DynamoDB eliminate admin overhead and scale effortlessly.
+- Aurora and Redshift offer **enterprise-grade performance** without the legacy setup.
+- Choosing the right database means understanding data types, access patterns, and scaling needs.
+
+---
