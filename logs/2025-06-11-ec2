@@ -1,0 +1,51 @@
+# 🖥️ Log 8: Amazon EC2 - Elastic Compute Cloud
+
+📅 Date: 2025-06-11  
+🧠 Topic: EC2 (Elastic Compute Cloud)  
+🎯 Source: AWS Certified Cloud Practitioner (CCP) course
+
+---
+
+## Summary
+
+- **What is EC2?**  
+  EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances) to run applications in the cloud.
+
+- **Why use EC2?**  
+  Offers flexibility, control, and scalability for compute resources, similar to owning a server — but on-demand.
+
+---
+
+## Key Concepts Learned
+
+### 🛠️ Instance Basics
+- Virtual machine running on AWS.
+- You choose an **AMI (Amazon Machine Image)** and **instance type**.
+- Popular instance type for CCP: `t2.micro` (Free Tier eligible).
+
+### 📦 AMI (Amazon Machine Image)
+- Pre-configured OS and software.
+- Can choose Amazon Linux, Ubuntu, Windows, etc.
+
+### 🧩 Instance Types
+- Defines vCPU, RAM, storage, etc.
+- Types: General Purpose, Compute Optimized, Memory Optimized, etc.
+
+### 🌍 Key Pair
+- SSH access uses a public/private key pair.
+- Private key stored locally (e.g., `.pem` file), used to connect securely.
+
+### 🔐 Security Groups
+- Act as a virtual firewall for the instance.
+- Define allowed **inbound** and **outbound** traffic (e.g., allow SSH on port 22, HTTP on port 80).
+
+### 🌎 Elastic IP
+- Static IP address for an EC2 instance.
+- Useful when IP consistency is needed (e.g., for a public-facing app).
+
+### ⚡ EC2 Pricing Options
+- **On-Demand** – Pay per hour/second. No commitment.
+- **Reserved Instances** – 1-3 year contract for steady usage. Cost-effective.
+- **Spot Instances** – Up to 90% cheaper, but can be interrupted anytime.
+
+---
