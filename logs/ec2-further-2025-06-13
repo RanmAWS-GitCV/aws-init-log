@@ -1,0 +1,62 @@
+# ⚙️ Amazon EC2 and Pricing Models – Module Completed
+
+**Date:** [Insert Date]  
+**Module:** Amazon Elastic Compute Cloud (EC2) & Pricing Models  
+**Course:** AWS Certified Cloud Practitioner (CLF-C02)
+
+---
+
+## Topics Covered
+
+- **Amazon EC2 Overview**  
+  - Virtual servers in the cloud providing resizable compute capacity  
+  - Instance types optimized for different workloads (compute, memory, storage, GPU)  
+  - Key components: AMIs (Amazon Machine Images), instance types, Elastic Block Store (EBS), key pairs, security groups  
+
+- **EC2 Instance Lifecycle**  
+  - Launching, stopping, starting, and terminating instances  
+  - Instance states and monitoring (running, stopped, terminated)  
+  - Elastic IP addresses and Elastic Network Interfaces (ENIs)  
+
+- **EC2 Storage Options**  
+  - EBS volumes: persistent block storage attached to instances  
+  - Instance Store: ephemeral storage with high IOPS but data lost on stop/terminate  
+  - Snapshots for backups and AMI creation  
+
+- **EC2 Pricing Models**  
+  - **On-Demand Instances**: Pay per second, no upfront commitment, highest cost, flexible  
+  - **Reserved Instances (RIs)**: Commit 1 or 3 years, significant discounts, standard and convertible types  
+  - **Spot Instances**: Use spare capacity at up to 90% discount, but instances can be interrupted  
+  - **Savings Plans**: Flexible pricing model providing discounts based on committed usage  
+  - **Dedicated Hosts**: Physical servers for compliance or licensing requirements  
+
+- **Auto Scaling and Elasticity**  
+  - Auto Scaling Groups (ASGs) to maintain desired instance count automatically  
+  - Scaling policies based on demand and metrics  
+  - Load balancing integration (Elastic Load Balancer) for fault tolerance  
+
+---
+
+## Key Takeaways
+
+- EC2 provides highly customizable compute instances to meet diverse workload needs  
+- Selecting the right instance type and pricing model impacts performance, cost efficiency, and availability  
+- Understanding lifecycle management is crucial for cost control and security  
+- Combining Auto Scaling with Elastic Load Balancing optimizes resource use and ensures high availability  
+- Spot and Reserved Instances offer powerful cost-saving opportunities when properly managed  
+
+---
+
+## Practical Insight
+
+- Use On-Demand for short-term or unpredictable workloads, Reserved Instances or Savings Plans for steady-state  
+- Implement Auto Scaling to adjust resources dynamically based on actual demand  
+- Monitor instance health and costs using CloudWatch and AWS Cost Explorer  
+- Secure instances with appropriate IAM roles, security groups, and key pairs  
+
+---
+
+## Next Steps
+
+- Practice launching, stopping, and terminating EC2 instances via AWS Console and CLI  
+- Explore pricing calculators and estimate cost savings with Reserved Instances and Spot Instances  
