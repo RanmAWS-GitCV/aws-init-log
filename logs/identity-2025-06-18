@@ -1,0 +1,47 @@
+# 🔐 AWS Identity
+
+**Date:**  2025-06-18
+**Module:** Identity (IAM) – AWS Certified Cloud Practitioner
+
+---
+
+## Summary
+
+Successfully completed the **AWS Identity and Access Management (IAM)** module. This foundational security component is critical for managing access control in any AWS environment, ensuring resources are used securely and appropriately.
+
+---
+
+## Topics Covered
+
+- 🧑‍💼 **IAM Users, Groups, and Roles** – Structuring identity within AWS for secure access
+- 📜 **IAM Policies** – Fine-grained permission control using JSON-based policy documents
+- 🎭 **IAM Roles vs. Users** – Role-based access delegation for applications, services, and cross-account usage
+- 🗝️ **Access Keys & MFA** – Credential management and multi-factor authentication best practices
+- 📂 **Policy Types** – Inline vs. managed policies and permission boundaries
+
+---
+
+## Concepts Mastered
+
+- ✅ Implemented **least privilege principle** in sample IAM setups
+- 🔄 Differentiated between **identity-based** and **resource-based** policies
+- 🔒 Understood **Shared Responsibility Model** in the context of IAM
+- 🔁 Familiar with **temporary security credentials** via roles and STS
+
+---
+
+## Practical Insight
+
+- IAM is the **security backbone** of AWS — improper setup is a common root cause for vulnerabilities
+- Gained awareness of how IAM integrates with services like **EC2**, **S3**, **Lambda**, and **Organizations**
+- Key takeaway: **Well-structured IAM reduces risk, increases compliance, and scales securely**
+
+---
+
+## Next Steps
+
+- 🔐 Set up IAM roles for EC2 and Lambda in sample deployments
+- 📁 Practice writing and testing custom IAM policies
+- 🚨 Explore service control policies (SCPs) in AWS Organizations (stretch goal)
+
+---
