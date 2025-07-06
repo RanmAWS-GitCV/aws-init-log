@@ -1,0 +1,19 @@
+# 🖥️ Amazon EC2 & Pricing Models – Module Completed
+
+**Date:** 2025-06-13  
+**Module:** EC2 + EC2 Pricing Models (AWS Certified Cloud Practitioner)
+
+---
+
+## Summary
+
+Completed the **Elastic Compute Cloud (EC2)** module with an emphasis on instance management, scalability, and AWS pricing strategies. This section provided a comprehensive look into how virtual servers are provisioned, configured, and optimized on the AWS Cloud.
+
+---
+
+## Topics Covered
+
+- 🚀 **Amazon EC2 Overview** – Scalable virtual machines for running applications and workloads
+- ⚙️ **Instance Types** – General purpose, compute optimized, memory optimized, storage optimized
+- 🔒 **Security & Networking** – Key pairs, security groups, and role-based access
+- 📦 **Storage Options**
