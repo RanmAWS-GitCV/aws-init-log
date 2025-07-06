@@ -1,0 +1,45 @@
+# 🔐 AWS Security – Module Completed
+
+**Date:** [Insert Date]  
+**Module:** AWS Security  
+**Course:** AWS Certified Cloud Practitioner (CLF-C02)
+
+---
+
+## Topics Covered
+
+- **Shared Responsibility Model**: Understanding AWS and customer security roles  
+- **AWS Identity and Access Management (IAM)**: Users, groups, roles, policies, MFA  
+- **Encryption**: Data at rest and in transit (AWS KMS, S3 encryption options)  
+- **AWS Security Services**:  
+  - AWS Shield (DDoS protection)  
+  - AWS WAF (Web Application Firewall)  
+  - AWS GuardDuty (Threat detection)  
+  - AWS CloudTrail (Audit logs and compliance)  
+  - AWS Config (Resource compliance monitoring)  
+- **Security Best Practices**: Principle of least privilege, MFA enforcement, secure credential management
+
+---
+
+## Key Takeaways
+
+- Security in AWS is a **shared responsibility** between AWS and the customer  
+- IAM is fundamental to controlling access and securing environments  
+- AWS provides layered security tools for **threat detection, mitigation, and compliance auditing**  
+- Following best practices such as **least privilege and multi-factor authentication** drastically reduces risk
+
+---
+
+## Practical Insight
+
+- Implementing IAM with fine-grained policies is critical to secure cloud infrastructure  
+- Monitoring with CloudTrail and GuardDuty allows proactive detection of anomalies  
+- Encryption and compliance tools help meet regulatory requirements and data protection goals
+
+---
+
+## Next Steps
+
+- Practice creating IAM policies with specific permissions  
+- REVISE FOR THE TEST!
+---
