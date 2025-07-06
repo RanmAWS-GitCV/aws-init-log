@@ -37,11 +37,4 @@ Completed the **Governance** module, covering how AWS enables organizations to m
 - Real-world takeaway: Proper governance ensures **secure, efficient, and scalable growth**
 
 ---
-
-## Next Steps
-
-- 🛡️ Simulate SCPs across multiple mock accounts in sandbox environments
-- 📚 Review compliance standards (HIPAA, SOC 2, ISO 27001) in AWS Artifact
-- 🔄 Automate config rule enforcement and resource conformance checks
-
 ---
