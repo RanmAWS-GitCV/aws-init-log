@@ -39,12 +39,3 @@ Completed the **AI/ML & Big Data** module, developing a foundational understandi
 - Using **Athena** and **QuickSight**, businesses can extract insights quickly without provisioning servers  
 - Real-world takeaway: These services abstract heavy lifting so teams can **focus on insights, not infrastructure**
 
----
-
-## Next Steps
-
-- 🛠️ Try a small SageMaker model deployment with sample datasets
-- 📚 Explore real-world QuickSight dashboards and Athena queries
-- ⚙️ Review Glue cataloging and how it integrates into a data lakehouse
-
----
