@@ -1,0 +1,47 @@
+# 🏗️ AWS Well-Architected Framework – Module Completed
+
+**Date:** 2025-06-24
+**Module:** AWS Well-Architected Framework – AWS Certified Cloud Practitioner
+
+---
+
+## Summary
+
+Completed the **AWS Well-Architected Framework** module, gaining insight into the five foundational pillars used to design, build, and operate secure, high-performing, resilient, and efficient infrastructure on AWS.
+
+---
+
+## Pillars of the Framework
+
+- 🔐 **Security** – Protecting systems, data, and assets while enabling business agility
+- ⚙️ **Operational Excellence** – Operations as code, frequent small improvements, and rapid recovery
+- 🧠 **Reliability** – Ability of a workload to recover from failures and meet customer demand
+- 📈 **Performance Efficiency** – Using resources efficiently and scaling to meet changing needs
+- 💰 **Cost Optimization** – Avoiding unnecessary costs and understanding spending over time
+
+---
+
+## Concepts Mastered
+
+- ✅ How each pillar supports **architectural decision-making**
+- ✅ Importance of **design principles** such as automation, monitoring, and failure isolation
+- ✅ Use of **Well-Architected Tool** for reviewing and improving workloads
+- ✅ Recognizing trade-offs between pillars when designing solutions
+
+---
+
+## Practical Insight
+
+- Cloud architects use the **Well-Architected Framework** to ensure infrastructure meets business and technical requirements
+- It's a **living blueprint** — useful at all stages of solution lifecycle
+- Real-world takeaway: Mastering these pillars ensures **scalable, secure, and cost-effective designs**
+
+---
+
+## Next Steps
+
+- 📝 Review AWS whitepapers on each individual pillar
+- 🔧 Try the **AWS Well-Architected Tool** in the console on a sample workload
+- 🏛️ Start mapping architecture choices back to pillar principles in future projects
+
+---
