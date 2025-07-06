@@ -1,7 +1,7 @@
 📚 **Topics Covered:** 
 - 🌍 **AWS Global Infrastructure**: Foundation for global cloud services and reliability
 - 🗺️ **Regions & Availability Zones (AZs)**:
-  - Regions are separate geographic areas with multiple AZs 
+  - Regions are separate geographic areas with multiple AZs  
   - AZs are isolated locations within regions for fault tolerance
   - Local Services availability differs by region
 - 🛡️ **Fault Tolerance & High Availability**: Using AZs and Regions to minimize downtime and data loss
