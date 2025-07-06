@@ -1,0 +1,58 @@
+# 💳 AWS Billing, Pricing & Support + 🚚 AWS Cloud Migration – Modules Completed
+
+**Date:** [Insert Date]  
+**Modules:**  
+- AWS Billing, Pricing & Support  
+- AWS Cloud Migration  
+**Course:** AWS Certified Cloud Practitioner (CLF-C02)
+
+---
+
+## 🧾 Billing, Pricing & Support
+
+### Topics Covered
+
+- **AWS Pricing Models**: On-Demand, Savings Plans, Reserved Instances, Spot Instances
+- **Total Cost of Ownership (TCO)** and **AWS Pricing Calculator**
+- **Billing Alerts** and **Cost Explorer** for usage tracking
+- **AWS Budgets** and setting cost limits
+- **Support Plans**: Basic, Developer, Business, and Enterprise tiers
+
+### Key Takeaways
+
+- AWS offers flexible pricing structures tailored to various workloads and optimization goals  
+- **Cost optimization tools** like AWS Budgets and Cost Explorer help maintain financial control  
+- Understanding **Support Plan features** is essential for aligning with business uptime and advisory needs
+
+---
+
+## 🚀 AWS Cloud Migration
+
+### Topics Covered
+
+- **AWS Migration Hub**: Central tracking for app migration
+- **AWS Snow Family**: Physical devices for large-scale data transfers
+- **AWS Application Migration Service (MGN)**: Lift-and-shift server migration
+- **Database Migration Service (DMS)** for moving databases to AWS
+- **Phases of Cloud Migration**: Assess, Mobilize, Migrate & Modernize
+
+### Key Takeaways
+
+- AWS offers **a complete toolset** for migrating data centers, apps, and databases  
+- **Migration Hub** provides centralized visibility into all migrations  
+- A well-executed migration strategy involves careful assessment and workload prioritization
+
+---
+
+## Practical Insight
+
+- Understanding AWS pricing ensures **cost-effective architectural decisions**  
+- Migration tooling and phased approaches are **cornerstones of digital transformation**  
+- Architects need to balance **cost, performance, and operational continuity** during cloud adoption
+
+---
+
+## Next Steps
+- Create an budget and alarm with **AWS Budgets** in the free tier
+
+---
