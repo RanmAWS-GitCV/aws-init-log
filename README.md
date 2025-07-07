@@ -28,7 +28,7 @@ I’m tracking this journey publicly as proof of progress, discipline, and maste
 
 ## 🧠 Current Focus Areas
 
-- ✅ Understanding the AWS Global Infrastructure (Regions, AZs, Edge Locations)
+- ✅ Trying to apply whhat I learnt from completeing the AWS CCP (cl-c02) into primaly Iac with th focus of auttomation and learning aws CLI
 - ✅ IAM basics: users, groups, roles, policies
 - ✅ S3: buckets, objects, permissions
 - ✅ EC2: launching, securing, and connecting to instances
